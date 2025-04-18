@@ -1,4 +1,4 @@
-# Pesquisa de Segurança: Abusos em GitHub Actions via Pull Request Malicioso
+# Pesquisa de Segurança: Explorando vulnerabilidades em GitHub Actions com usuários externos
 
 ## Objetivo
 
